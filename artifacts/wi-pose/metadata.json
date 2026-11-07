@@ -1,0 +1,18 @@
+{
+  "input_name": "CSI",
+  "input_shape": [
+    3,
+    3,
+    30,
+    5
+  ],
+  "output_name": "SkeletonPoints",
+  "output_shape": [
+    54
+  ],
+  "model_file": "wi_pose_model.pt",
+  "train_files": 119518,
+  "validation_files": 13329,
+  "device": "cuda",
+  "seed": 42
+}
