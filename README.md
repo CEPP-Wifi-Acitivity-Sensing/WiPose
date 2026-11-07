@@ -37,5 +37,4 @@ WiPose/
 ├──README.md
 ├──requirements.txt
 └──train.py
-
 ```
