@@ -3,6 +3,7 @@ __pycache__
 Wi-Pose/
 esp32/recv/build/
 esp32/send/build/
+nvs_config.csv
 
 
 ruview-recv/
