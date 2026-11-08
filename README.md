@@ -1,5 +1,5 @@
 # WiPose
-
+## Dataset training
 Download dataset:
 <https://github.com/NjtechCVLab/Wi-PoseDataset>
 
@@ -23,7 +23,7 @@ The exported files are:
 artifacts\wi-pose\wi_pose_model.pt
 artifacts\wi-pose\metadata.json
 ```
-
+---
 Project file structure
 ```text
 WiPose/
@@ -33,6 +33,9 @@ WiPose/
 ├──artifacts
 │   ├──wi-pose/wi_pose_model.pt
 │   └──wi-pose/metadata.json
+├──esp32
+│   ├──recv
+│   └──send
 ├──.gitignore
 ├──README.md
 ├──requirements.txt
